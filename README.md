@@ -18,17 +18,13 @@ This certification is broken down into three main areas:
 3. **Hunting the Endpoint & Endpoint Analysis**:
     - Here, emphasis is on endpoint analysis, covering tools like **Volatility** for memory analysis and **ELK (Elastic)** for log analysis, focusing on detecting malware indicators and suspicious activity on endpoints.
 
-<aside>
 💡
-
 **Personal Notes on the Course Content**
 
-In this section, I’ve included some of my notes to help guide others studying for the eCTHPv2 certification. 
-These notes summarize key takeaways from each module, covering essential techniques, tools, and strategies for threat hunting within networks and endpoints. 
+> In this section, I’ve included some of my notes to help guide others studying for the eCTHPv2 certification. 
+> These notes summarize key takeaways from each module, covering essential techniques, tools, and strategies for threat hunting within networks and endpoints. 
+> [eCTHPv2 Notes](https://www.notion.so/eCTHPv2-Notes-3feb4008746f4cb6b1b37acbebbc130a?pvs=21)
 
-[eCTHPv2 Notes](https://www.notion.so/eCTHPv2-Notes-3feb4008746f4cb6b1b37acbebbc130a?pvs=21)
-
-</aside>
 
 ### Exam Details
 
@@ -50,9 +46,9 @@ Since you’re already familiar with **Splunk** and **ELK**, here are some focus
 4. **Time Management**: Plan each lab’s activities and reserve time for report review to meet the certification’s strict deadlines.
 5. **Practice with Real Scenarios**: Aside from course materials, practice with realistic case studies to solidify your knowledge, especially in network and endpoint analysis.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ebd839ec-c768-4dd4-861e-67c0b75b221f/bb7a7a14-dec7-4ccd-b45a-75b717677c4f/image.png)
+![eCTHP_DANDREA_CERTIFICATION](eCTHP_DANDREA.jpg)
 
-[eCTHPv2_Letter_of_engagement.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/ebd839ec-c768-4dd4-861e-67c0b75b221f/9b177b01-f4d6-4fd0-b290-cd344d50951e/eCTHPv2.pdf)
+[eCTHPv2_Letter_of_engagement](eCTHPv2_Letter_of_engagement.pdf)
 
 ### Conclusion
 
