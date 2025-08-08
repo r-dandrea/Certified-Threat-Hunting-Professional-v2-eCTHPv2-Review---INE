@@ -46,7 +46,7 @@ Since you’re already familiar with **Splunk** and **ELK**, here are some focus
 4. **Time Management**: Plan each lab’s activities and reserve time for report review to meet the certification’s strict deadlines.
 5. **Practice with Real Scenarios**: Aside from course materials, practice with realistic case studies to solidify your knowledge, especially in network and endpoint analysis.
 
-![eCTHP_DANDREA_CERTIFICATION](eCTHP_DANDREA.jpg)
+![eCTHP_DANDREA_CERTIFICATION](eCTHP_DANDREA.png)
 
 [eCTHPv2_Letter_of_engagement](eCTHPv2_Letter_of_engagement.pdf)
 
