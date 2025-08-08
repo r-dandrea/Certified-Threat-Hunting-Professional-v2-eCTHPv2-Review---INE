@@ -1,3 +1,5 @@
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/737d7c0f-d4c4-4e0a-8669-05926b7c1f77" />
+
 The **Certified Threat Hunting Professional v2 (eCTHPv2)** by INE is a certification designed for security professionals focused on threat hunting. 
 
 This certification is ideal for security analysts and threat hunters who wish to learn in-depth techniques for identifying malicious activities across network and endpoint environments. Priced at **$399**, the certification includes a practical exam and requires a final report, to be completed within two days post-exam. 
